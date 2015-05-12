@@ -1,5 +1,7 @@
 # home-shiny
-A Shiny data dashboard for [HOME](http://home.org.sg/).
+A [Shiny](http://shiny.rstudio.com/) data dashboard for [HOME](http://home.org.sg/).
+
+![home-shiny-screenshot](https://cloud.githubusercontent.com/assets/149985/7592340/65a908d6-f905-11e4-8530-414901cee5eb.png)
 
 ## Prerequisites
 
